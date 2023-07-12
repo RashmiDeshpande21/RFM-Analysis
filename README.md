@@ -8,4 +8,4 @@ Using RFM Analysis, a business can assess customers’:
 
 Recency, Frequency, and Monetary value of a customer are three key metrics that provide information about customer engagement, loyalty, and value to a business.
 
-To perform RFM analysis using Python, we need a dataset that includes customer IDs, purchase dates, and transaction amounts. With this information, we can calculate RFM values for each customer and analyze their patterns and behaviours. I found an ideal dataset for this task. (https://statso.io/rfm-analysis-case-study/)
+To perform RFM analysis using Python, we need a dataset that includes customer IDs, purchase dates, and transaction amounts. With this information, we can calculate RFM values for each customer and analyze their patterns and behaviours. I found an ideal dataset for this task. (RFM_data)
